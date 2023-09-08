@@ -19,7 +19,8 @@
 ### :man_technologist: About Me :
 
 I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing a Master of Science in Business Analytics and Information Systems from the University of South Florida.
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img src="https://github.com/GopiChandYenikapalli/Introduction/assets/124816585/e4b86483-83d0-45cb-a010-6feaa0099c46" title="ProfileImage" alt= "Profileimage" align="left" width="250" height="250"/>&nbsp;
+
 - :telescope: I envision myself as an influencer Data Scientist/ Data Analyst to deliver valuable insights from data where I can utilize my technical and managerial skills to permute business decisions and guide organizations towards great efficiency.Strong background in areas including Data mining, Data Analysis, Statistical Analysis, Data Visualization, and Machine learning. 4 years of multifaceted work experience as a Data scientist.Expertise in the field of Machine Learning and Data Science, building predictive models, fine-tuning them, and successfully delivering results with Data Visualization tools such as Tableau and Power BI I have expertise in training & deploying machine learning models, deep learning use-cases (NLP), ETL, data pipelines, and dashboarding.
 
 - :zap: In my free time, I contribute to open-source projects and read tech articles.
